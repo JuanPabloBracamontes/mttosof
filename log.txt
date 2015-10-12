@@ -1,0 +1,35 @@
+commit 2edc7eb6a330613d8c5b702d139f8c5779f06958
+Author: Juan Pablo <juampi_ba619@hotmail.com>
+Date:   Thu Oct 8 17:38:08 2015 -0600
+
+    Se agrego el color de fondo
+
+commit eaf209fa494327a24fd9d5d8d04c3055869cdb9d
+Author: Juan Pablo <juampi_ba619@hotmail.com>
+Date:   Thu Oct 8 17:37:21 2015 -0600
+
+    Se agrego la imagen
+
+commit c082026733856a939a73862267f373acfe897723
+Author: Juan Pablo <juampi_ba619@hotmail.com>
+Date:   Thu Oct 8 17:30:57 2015 -0600
+
+    Se agrego un cuerpo
+
+commit 2e3a4c4c36a1203e7dc4e0561d8b6b308856aa90
+Author: Juan Pablo <juampi_ba619@hotmail.com>
+Date:   Tue Oct 6 17:55:11 2015 -0600
+
+    Se agrego titulo
+
+commit 0227f63b6934c940d228ef04bfefa487d53517ee
+Author: Juan Pablo <juampi_ba619@hotmail.com>
+Date:   Tue Oct 6 17:39:03 2015 -0600
+
+    Se agrego pagina en blanco1
+
+commit 285fddb15c8c15109cae205ef5b7357e97693f77
+Author: Juan Pablo <juampi_ba619@hotmail.com>
+Date:   Tue Oct 6 17:38:25 2015 -0600
+
+    Se agrego pagina en blanco
